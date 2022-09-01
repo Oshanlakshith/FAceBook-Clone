@@ -1,8 +1,8 @@
-import './App.css';
+import Names from "./MainHeader/name";
 
 function App() {
   return (
-   <h1>FaceBook</h1>
+   <Names/>
   );
 }
 
