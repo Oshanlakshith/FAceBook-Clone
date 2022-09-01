@@ -1,8 +1,13 @@
 import Names from "./MainHeader/name";
+import AccountCreate from "./Page/AccountCreate";
 
 function App() {
   return (
-   <Names/>
+    <div>
+    <Names/>
+   <AccountCreate/>
+    </div>
+ 
   );
 }
 

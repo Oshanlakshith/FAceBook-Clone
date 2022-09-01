@@ -1,0 +1,11 @@
+.accountPage {
+    background: rgba(233, 233, 233, 0.21);
+    border-radius: 36px;
+    width: 602px;
+    position: absolute;
+    height: 630px;
+    top: 83px;
+    left: 473px;
+    right: 20px;
+    align-items: center;
+}
